@@ -46,7 +46,8 @@ SETX SNC_LIB "C:\Windows\System32" /M
 
 pause
 goto opcao3
-																							
+
+REM C:																							
 REM C:
 REM cd Windows
 REM cd System32a
