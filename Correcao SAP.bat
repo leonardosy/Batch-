@@ -4,7 +4,7 @@ echo                   CORRECAO SAP
 echo ================================================
 pause
 
-@echo on
+REM @echo on
 
 REM Copia os Arquivos (Inseri caminho na rede)
 copy D:\scud-leonardo\Desktop\bat\1.txt C:\Windows\System32
